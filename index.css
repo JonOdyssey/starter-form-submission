@@ -46,6 +46,10 @@ body {
   padding: 4px;
 }
 
+.hidden {
+  display: none;
+}
+
 @media screen and (min-width: 600px) {
   .articles {
     grid-template-columns: repeat(2, 1fr);

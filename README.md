@@ -54,7 +54,7 @@ If the form is not blank the error element should not be on the form.
 
 Perform a case insensitive search of the titles of the articles (that is, the `innerHTML` values of the `h2` elements). If the search term matches any part of the title the article should be displayed, if the search term does not match any part of the title the article should be hidden.
 
-To hide an article set the `style.display` property of the article to "none". To make it visible again set the `style.display` property to "block";
+To hide an article add the class "hidden" to the `article` element. To make it visible again remove the class "hidden" from the `article` element.
 
 If a second search is conducted, articles hidden by any previous searches should be made visible again.
 
