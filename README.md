@@ -8,7 +8,7 @@ You are working on a web application that includes a search form. You want to cr
 
 ## The HTML
 
-The HTML page is named `index.html`. It contains a form and a list of articles. The form contain a single input field. When the form is submitted the articles are filtered by the search term entered on the form.
+The HTML page is named `index.html`. It contains a form and a list of articles. The form contain a single input field. When the form is submitted the articles are filtered by the search term entered on the form. You should not edit the HTML file in any way.
 
 ## The JavaScript
 
@@ -16,16 +16,16 @@ The JavaScript code is to be written in the file `index.js`. This is the only fi
 
 ## The Tests
 
-Additionally there is a `test.js` file. You may ignore this file. It contains some test code that will provide some feedback on your progress. When you first open the web page in the browser you should see a series of messages indicating failed tests at the bottom of the HTML page.
+Additionally there are some tests in the `test` directory. You may ignore these if you wish. It contains some test code that will provide some feedback on your progress. When you first open the web page in the browser you should see a series of messages indicating failed tests at the bottom of the HTML page.
 
-As you write your code these tests should all pass.
+As you write your code these tests should all pass. You have completed the assignment when all tests pass.
 
 ## Getting started
 
 To get started fork this repository. Clone your copy of the repository to your local machine.
 
 ```bash
-git clone ...
+git clone https://github.com/Thinkful-Ed/starter-form-submission
 ```
 
 You may want to start a local server to load the page in the browser. Navigate to the folder in which the repository was cloned and run the command:
