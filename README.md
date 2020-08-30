@@ -25,7 +25,7 @@ As you write your code these tests should all pass.
 To get started fork this repository. Clone your copy of the repository to your local machine.
 
 ```bash
-git clone ...
+git clone https://github.com/<YOUR_GITHUB_USERNAME>/starter-form-submission.git
 ```
 
 You may want to start a local server to load the page in the browser. Navigate to the folder in which the repository was cloned and run the command:
