@@ -57,3 +57,7 @@ Perform a case insensitive search of the titles of the articles (that is, the `i
 To hide an article set the `style.display` property of the article to "none". To make it visible again set the `style.display` property to "block";
 
 If a second search is conducted, articles hidden by any previous searches should be made visible again.
+
+## License
+
+This is [MIT Licensed](LICENSE)
